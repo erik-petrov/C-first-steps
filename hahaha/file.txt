@@ -1,0 +1,4 @@
+The chosen day was: Saturday, the number was 6
+The chosen day was: Thursday, the number was 4
+The chosen day was: Saturday, the number was 6
+The chosen day was: Thursday, the number was 4
